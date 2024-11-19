@@ -1,4 +1,4 @@
-## Hi there 👋
+PhD student working on modelling soil-water-plant-atmosphere relations.
 
 <!--
 **markvdbrink/markvdbrink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
